@@ -10,7 +10,6 @@ import java.util.HashMap;
 
 public class Model
 {
-
     private HashMap<Float,String> arrOfTaskWhizNoFine;
     private HashMap<Float,String> arrOfTaskWhizFine;
 
