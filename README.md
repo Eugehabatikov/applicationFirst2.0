@@ -1,0 +1,3 @@
+# applicationFirst2.0
+status - paused
+This application i need to control on my life; I'm so sorry for my english; This app on android and in main page you can mark checbox opposit those tasks that you completed in a day; When you press a botton "SAVE" you save, result and after you can see your progress; If you did not make somfing on which one you getting fine; Classes: First class - View - in this i print information on your mobile and chec y̶o̶u̶r̶ ̶b̶a̶n̶k̶ ̶c̶a̶r̶d̶ ̶d̶a̶t̶a̶ clic on botton or chec box; Second Class - Model - data, calculate all checbox ;Third - Control - controll all botton,make total,sanctions,  Later i planed a make prototyp of window and add link to this
